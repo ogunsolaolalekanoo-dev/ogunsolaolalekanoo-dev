@@ -86,7 +86,7 @@ Retention & churn modeling
 Forecasting & trend analysis
 
 **Featured Work**
-Focus Area	Description
+Focus Area	                                                Description
 🔄 ML Pipelines	End-to-end predictive systems with cross-validation & threshold optimization
 📊 Churn Modeling	Business-aligned early warning system with ROC-AUC evaluation
 🔍 Model Interpretability	SHAP-based feature impact & explanation workflows
