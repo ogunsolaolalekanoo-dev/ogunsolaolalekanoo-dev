@@ -104,15 +104,6 @@ scikit-learn, XGBoost, pandas, NumPy, matplotlib
 
 Data Engineering:
 ETL pipelines, JSON processing, schema normalization
-
-Workflow & Version Control:
-Git, GitHub
-
-📊 GitHub Activity
-
-
-
-
 🌐 Connect With Me
 
 📫 Email: ogunsolaolalekan.oo@gmail.com
