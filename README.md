@@ -5,7 +5,5 @@
 
 Building scalable data systems, production-ready ML pipelines, and executive-level analytics that translate raw data into strategic decisions.
 
-📫 Email: ogunsolaolalekan.oo@gmail.com
-
 🔗 LinkedIn: linkedin.com/in/ogunsolaolalekan
 📍 Location: Louisville, KY
