@@ -1,4 +1,3 @@
-**Olalekan Michael Ogunsola**
 
 **Data Engineer | Analytics Engineer | Machine Learning | Predictive Analytics | Data Science | Analytical Chemist**
 
