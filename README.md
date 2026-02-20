@@ -1,6 +1,6 @@
-****Olalekan Michael Ogunsola****
+**Olalekan Michael Ogunsola**
 
-****Data Engineer | Analytics Engineer | Machine Learning | Predictive Analytics | Data Science | Analtical Chemist****
+**Data Engineer | Analytics Engineer | Machine Learning | Predictive Analytics | Data Science | Analtical Chemist**
 
 
 Building scalable data systems, production-ready ML pipelines, and executive-level analytics that translate raw data into strategic decisions.
