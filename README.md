@@ -1,10 +1,10 @@
-Olalekan Michael Ogunsola
+****Olalekan Michael Ogunsola*******
 
-Data Engineer | Analytics Engineer | Machine Learning | Predictive Analytics | Data Science
+**Data Engineer | Analytics Engineer | Machine Learning | Predictive Analytics | Data Science**
 
 Building scalable data systems, production-ready ML pipelines, and executive-level analytics that translate raw data into strategic decisions.
 
-👨🏾‍💻 About Me
+**About Me**
 
 I am a data professional with a background in analytical chemistry and advanced training in Business Analytics (AI concentration). My work operates at the intersection of:
 
@@ -20,8 +20,9 @@ Business Strategy through Data
 
 I design systems that move from raw data → engineered features → optimized models → actionable decisions.
 
-🧠 Core Technical Expertise
-🔹 Data Engineering
+Core Technical Expertise
+
+**Data Engineering**
 
 JSON normalization & schema reconciliation
 
@@ -37,7 +38,7 @@ Production-ready structured exports
 
 Tools: Python (pandas, NumPy), SQL
 
-🔹 Analytics Engineering
+**Analytics Engineering**
 
 Feature engineering frameworks
 
@@ -51,7 +52,7 @@ Reproducible ML workflows
 
 Tools: scikit-learn, XGBoost, pandas
 
-🔹 Machine Learning & Predictive Analytics
+**Machine Learning & Predictive Analytics**
 
 Logistic Regression
 
@@ -69,7 +70,7 @@ Threshold sweep evaluation
 
 Cost-sensitive modeling
 
-🔹 Data Science & Insight Generation
+**Data Science & Insight Generation**
 
 Exploratory Data Analysis (EDA)
 
@@ -83,25 +84,7 @@ Retention & churn modeling
 
 Forecasting & trend analysis
 
-🏗 Modeling Philosophy
-
-Strong data systems must:
-
-Be structurally sound
-
-Be reproducible
-
-Be interpretable
-
-Optimize the correct metric
-
-Align with measurable business outcomes
-
-A model without a decision framework is incomplete.
-
-Data becomes valuable when it is engineered into action.
-
-🚀 Featured Work
+**Featured Work**
 Focus Area	Description
 🔄 ML Pipelines	End-to-end predictive systems with cross-validation & threshold optimization
 📊 Churn Modeling	Business-aligned early warning system with ROC-AUC evaluation
@@ -110,7 +93,7 @@ Focus Area	Description
 📈 Strategic Analytics	Executive-level visualization & decision storytelling
 ⚙️ Technical Stack
 
-Languages:
+**Languages:**
 Python, SQL
 
 ML & Analytics:
